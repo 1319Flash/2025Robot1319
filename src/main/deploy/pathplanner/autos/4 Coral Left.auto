@@ -1,0 +1,97 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P1 Left"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Dump"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P2 Left"
+          }
+        },
+        {
+          "type": "wait",
+          "data": {
+            "waitTime": 0.65
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P3 Left"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Dump"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P4 Left"
+          }
+        },
+        {
+          "type": "wait",
+          "data": {
+            "waitTime": 0.65
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P5 Left"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Dump"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P6 Left"
+          }
+        },
+        {
+          "type": "wait",
+          "data": {
+            "waitTime": 0.65
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P7 Left"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Dump"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": "Left",
+  "choreoAuto": false
+}

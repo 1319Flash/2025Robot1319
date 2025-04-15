@@ -1,0 +1,40 @@
+{
+  "robotWidth": 0.889,
+  "robotLength": 0.889,
+  "holonomicMode": true,
+  "pathFolders": [
+    "Right",
+    "Middle",
+    "Left"
+  ],
+  "autoFolders": [
+    "Middle",
+    "Left",
+    "Right"
+  ],
+  "defaultMaxVel": 3.0,
+  "defaultMaxAccel": 3.0,
+  "defaultMaxAngVel": 540.0,
+  "defaultMaxAngAccel": 720.0,
+  "defaultNominalVoltage": 12.0,
+  "robotMass": 63.503,
+  "robotMOI": 8.36462574383,
+  "robotTrackwidth": 0.5588,
+  "driveWheelRadius": 0.0508,
+  "driveGearing": 6.75,
+  "maxDriveSpeed": 4.27482,
+  "driveMotorType": "falcon500",
+  "driveCurrentLimit": 120.0,
+  "wheelCOF": 1.19,
+  "flModuleX": 0.305,
+  "flModuleY": 0.3048,
+  "frModuleX": 0.3048,
+  "frModuleY": -0.3048,
+  "blModuleX": -0.3048,
+  "blModuleY": 0.3048,
+  "brModuleX": -0.3048,
+  "brModuleY": -0.3048,
+  "bumperOffsetX": 0.0,
+  "bumperOffsetY": 0.0,
+  "robotFeatures": []
+}

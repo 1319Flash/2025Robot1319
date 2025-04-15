@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 1.3485915492957732,
+        "y": 7.539788732394365
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 1.9245415463537663,
+        "y": 6.810973120511223
+      },
+      "isLocked": false,
+      "linkedName": "P2 Top End"
+    },
+    {
+      "anchor": {
+        "x": 3.2051936619718298,
+        "y": 4.110035211267604
+      },
+      "prevControl": {
+        "x": 1.6745598591549284,
+        "y": 4.110035211267604
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 0.0
+  },
+  "reversed": false,
+  "folder": "Left",
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": -53.47114463301483
+  },
+  "useDefaultConstraints": true
+}
